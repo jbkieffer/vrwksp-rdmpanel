@@ -9,7 +9,8 @@ Friday, June 7, 2019; 9:00 - 10:15 am CDT (75 minutes)
 - Vas Valiliadis, Globus
 - Jen Zhao, Smithsonian Conservation Biology Institute
 - Mara Sedlins, Colorado State University
-- TBD
+- Megan O'Donnell, Iowa State University
+- Pete Schlax, Bates College
 
 ## Panel Outline
 
@@ -39,12 +40,14 @@ If silence persists, follow-up questions or comments among panelists about Round
 
 Round robin; ~ 4 min each
 
-This is the space for broader RDM-related topics from the panelists; some of these were discussed over email (and are my best guess RE: your intentions) but aren't set in stone:
+This is the space for broader RDM-related topics from the panelists; some of these were discussed over email (and are my best guess RE: your intentions) but aren't set in stone.
 
 - Jamene: recognizing and cultivating intentionality across differing priorities
 - Jen: training citizen scientists in RDM
 - Vas: automating workflows & RDM at scale
 - Mara: TBD
+- Megan: TBD
+- Pete: TBD
 
 One of the panelists who pulled out had suggested, "How do we as folks who help with RDM perform assessment and show how we add value to the process?" Assessment is a great concept to add here if anyone wants to take it on and may be a good kick-off for the second round of Q&A / discussion.
 
