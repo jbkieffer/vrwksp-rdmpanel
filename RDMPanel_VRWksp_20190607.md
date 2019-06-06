@@ -6,7 +6,7 @@ Friday, June 7, 2019; 9:00 - 10:15 am CDT (75 minutes)
 
 ### Panelists
 - Jamene Brooks-Kieffer, University of Kansas (moderator)
-- Vas Valiliadis, Globus
+- Vas Vasiliadis, Globus
 - Jen Zhao, Smithsonian Conservation Biology Institute
 - Mara Sedlins, Colorado State University
 - Megan O'Donnell, Iowa State University
