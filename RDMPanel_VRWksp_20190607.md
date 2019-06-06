@@ -24,7 +24,7 @@ As moderator, Jamene will also briefly introduce the concept of Research Data Ma
 
 ### Panelists Round 1 (up to 20 minutes) - Local Contexts for Research Data Management
 
-Round robin; ~ 4 min each.
+Round robin; ~ 3 min each.
 
 Describe one or two services or programs you facilitate or assist with in the area of Research Data Management (RDM).
 
@@ -38,7 +38,7 @@ If silence persists, follow-up questions or comments among panelists about Round
 
 ### Panelists Round 2 (up to 20 minutes) - Beyond Local Research Data Management
 
-Round robin; ~ 4 min each
+Round robin; ~ 3 min each
 
 This is the space for broader RDM-related topics from the panelists; some of these were discussed over email (and are my best guess RE: your intentions) but aren't set in stone.
 
