@@ -57,4 +57,5 @@ Open floor for learners' questions, comments, and discussion. Don't let one pers
 
 - "How will you translate RDM needs and requirements between researchers and HPC specialists?"
 - "What is your plan for identifying RDM specialists at your organization and communicating with them?"
-- other questions?
+- "What have you been surprised to discover that your researchers **don't** know about RDM?" (from HN)
+- "What are the key issues that you've seen work well to get your researchers to pursue RDM and/or to collaborate with you on RDM? What brings them in the door?" (from HN)
