@@ -46,7 +46,7 @@ This is the space for broader RDM-related topics from the panelists; some of the
 - Jen: training citizen scientists in RDM
 - Vas: automating workflows & RDM at scale
 - Mara: TBD
-- Megan: TBD
+- Megan: facilitating data as a first class research object (i.e. worthy of publication)
 - Pete: TBD
 
 One of the panelists who pulled out had suggested, "How do we as folks who help with RDM perform assessment and show how we add value to the process?" Assessment is a great concept to add here if anyone wants to take it on and may be a good kick-off for the second round of Q&A / discussion.
