@@ -47,7 +47,7 @@ This is the space for broader RDM-related topics from the panelists; some of the
 - Vas: automating workflows & RDM at scale
 - Mara: TBD
 - Megan: facilitating data as a first class research object (i.e. worthy of publication)
-- Pete: TBD
+- Pete: ways to create and brand tools specific to certain parts of the RDM process
 
 One of the panelists who pulled out had suggested, "How do we as folks who help with RDM perform assessment and show how we add value to the process?" Assessment is a great concept to add here if anyone wants to take it on and may be a good kick-off for the second round of Q&A / discussion.
 
