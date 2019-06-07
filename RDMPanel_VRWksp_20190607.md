@@ -45,7 +45,7 @@ This is the space for broader RDM-related topics from the panelists; some of the
 - Jamene: recognizing and cultivating intentionality across differing priorities
 - Jen: training citizen scientists in RDM
 - Vas: automating workflows & RDM at scale
-- Mara: TBD
+- Mara: promoting open science, data sharing (where possible), and reproducible research
 - Megan: facilitating data as a first class research object (i.e. worthy of publication)
 - Pete: ways to create and brand tools specific to certain parts of the RDM process
 
